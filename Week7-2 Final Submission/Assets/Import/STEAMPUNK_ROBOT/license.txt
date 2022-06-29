@@ -1,0 +1,11 @@
+Model Information:
+* title:	STEAMPUNK ROBOT
+* source:	https://sketchfab.com/3d-models/steampunk-robot-0309272a8e664418acf0731362568772
+* author:	yayago56 (https://sketchfab.com/yayago56)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "STEAMPUNK ROBOT" (https://sketchfab.com/3d-models/steampunk-robot-0309272a8e664418acf0731362568772) by yayago56 (https://sketchfab.com/yayago56) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

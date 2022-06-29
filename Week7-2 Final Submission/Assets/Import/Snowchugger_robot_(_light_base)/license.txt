@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowchugger robot ( light base)
+* source:	https://sketchfab.com/3d-models/snowchugger-robot-light-base-e62b4eb85d0744da8bcb40196e624407
+* author:	lionarts3d (https://sketchfab.com/lionarts3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowchugger robot ( light base)" (https://sketchfab.com/3d-models/snowchugger-robot-light-base-e62b4eb85d0744da8bcb40196e624407) by lionarts3d (https://sketchfab.com/lionarts3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

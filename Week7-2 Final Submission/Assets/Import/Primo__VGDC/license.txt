@@ -1,0 +1,11 @@
+Model Information:
+* title:	Primo | VGDC
+* source:	https://sketchfab.com/3d-models/primo-vgdc-2f474ff9d39d4e35a07798beee78c609
+* author:	MooKorea (https://sketchfab.com/MooKorea)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Primo | VGDC" (https://sketchfab.com/3d-models/primo-vgdc-2f474ff9d39d4e35a07798beee78c609) by MooKorea (https://sketchfab.com/MooKorea) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Military Drone | VGDC
+* source:	https://sketchfab.com/3d-models/military-drone-vgdc-52bd46f9c4884530975edbd1cf84e46a
+* author:	MooKorea (https://sketchfab.com/MooKorea)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Military Drone | VGDC" (https://sketchfab.com/3d-models/military-drone-vgdc-52bd46f9c4884530975edbd1cf84e46a) by MooKorea (https://sketchfab.com/MooKorea) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

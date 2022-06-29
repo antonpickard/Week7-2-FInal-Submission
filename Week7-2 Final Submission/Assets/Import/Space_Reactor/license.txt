@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space Reactor
+* source:	https://sketchfab.com/3d-models/space-reactor-170b1e7a9a5a43a49961d5521ff44446
+* author:	Gaz3dModeling (https://sketchfab.com/Gaz3dModeling)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space Reactor" (https://sketchfab.com/3d-models/space-reactor-170b1e7a9a5a43a49961d5521ff44446) by Gaz3dModeling (https://sketchfab.com/Gaz3dModeling) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

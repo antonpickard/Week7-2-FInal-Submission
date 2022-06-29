@@ -1,0 +1,11 @@
+Model Information:
+* title:	GuardsMan
+* source:	https://sketchfab.com/3d-models/guardsman-139ecd4e6f994ab99998961b94acd960
+* author:	SwishWISH (https://sketchfab.com/dinahnamte)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GuardsMan" (https://sketchfab.com/3d-models/guardsman-139ecd4e6f994ab99998961b94acd960) by SwishWISH (https://sketchfab.com/dinahnamte) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
