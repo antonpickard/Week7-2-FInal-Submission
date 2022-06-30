@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steampunk Cathedral
+* source:	https://sketchfab.com/3d-models/steampunk-cathedral-4fd4c656d8654e35a16eb2a9aea13393
+* author:	GORV (https://sketchfab.com/GORV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steampunk Cathedral" (https://sketchfab.com/3d-models/steampunk-cathedral-4fd4c656d8654e35a16eb2a9aea13393) by GORV (https://sketchfab.com/GORV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

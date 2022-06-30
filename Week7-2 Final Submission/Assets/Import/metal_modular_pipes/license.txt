@@ -1,0 +1,11 @@
+Model Information:
+* title:	metal modular pipes
+* source:	https://sketchfab.com/3d-models/metal-modular-pipes-42603e10dd62457ebf3db119b7281686
+* author:	sam (https://sketchfab.com/pigeons)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "metal modular pipes" (https://sketchfab.com/3d-models/metal-modular-pipes-42603e10dd62457ebf3db119b7281686) by sam (https://sketchfab.com/pigeons) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

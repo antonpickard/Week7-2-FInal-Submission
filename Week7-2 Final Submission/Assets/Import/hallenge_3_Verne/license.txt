@@ -1,0 +1,11 @@
+Model Information:
+* title:	Сhallenge 3 Verne
+* source:	https://sketchfab.com/3d-models/hallenge-3-verne-288011f3be0c4ab48de04a42350d3d76
+* author:	DmitriusRus (https://sketchfab.com/DmitriusRus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Сhallenge 3 Verne" (https://sketchfab.com/3d-models/hallenge-3-verne-288011f3be0c4ab48de04a42350d3d76) by DmitriusRus (https://sketchfab.com/DmitriusRus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

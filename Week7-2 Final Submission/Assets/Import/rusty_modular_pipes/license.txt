@@ -1,0 +1,11 @@
+Model Information:
+* title:	rusty modular pipes
+* source:	https://sketchfab.com/3d-models/rusty-modular-pipes-6229f6dbbd3c4b75bc92977f2838ca36
+* author:	sam (https://sketchfab.com/pigeons)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "rusty modular pipes" (https://sketchfab.com/3d-models/rusty-modular-pipes-6229f6dbbd3c4b75bc92977f2838ca36) by sam (https://sketchfab.com/pigeons) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

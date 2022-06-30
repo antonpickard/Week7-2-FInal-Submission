@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steampunk camera
+* source:	https://sketchfab.com/3d-models/steampunk-camera-9c2cd3d3d14949c79cead951ce64261e
+* author:	DailyArt (https://sketchfab.com/D.art)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steampunk camera" (https://sketchfab.com/3d-models/steampunk-camera-9c2cd3d3d14949c79cead951ce64261e) by DailyArt (https://sketchfab.com/D.art) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
